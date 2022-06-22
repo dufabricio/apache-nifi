@@ -50,7 +50,7 @@ https://docs.cloudera.com/HDPDocuments/HDF3/HDF-3.1.2/bk_user-guide/content/conn
 ## Using GenerateTableFetch To Create ETL's In Your Dataflow | Apache Nifi | Part 9
 * https://www.youtube.com/watch?v=BTNL2vF6PJc
 
-## Dados de Usuario para Consulta na Base Oracle STG
+## Dados de Usuario DB
 
 Connection URI:
 ```
